@@ -1,4 +1,6 @@
 {
+  "name": "react-server-container",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "bootstrap": "npm i; lerna bootstrap",
