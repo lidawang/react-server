@@ -45,4 +45,8 @@ module.exports = {
 		entry: "/error/logs",
 		description: "Generate errors in the logs",
 	},
+	ReactLifecycleErrors: {
+		entry: "/error/react",
+		description: "See how react-server handles react lifecycle errors without crashing the whole page",
+	},
 }
