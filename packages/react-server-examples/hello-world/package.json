@@ -15,8 +15,8 @@
     "babel-preset-es2015": "~6.5",
     "babel-preset-react": "~6.5",
     "babel-runtime": "~6.5",
-    "react": "~0.14.2",
-    "react-dom": "~0.14.2",
+    "react": "~0.14.3",
+    "react-dom": "~0.14.3",
     "react-server": "~0.4.5",
     "react-server-cli": "~0.4.5",
     "superagent": "1.2.0"
